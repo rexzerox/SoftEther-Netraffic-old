@@ -18,7 +18,7 @@ echo
 echo "开始安装lnmp"
 cd /
 wget https://raw.githubusercontent.com/wx1183618058/SoftEther-Netraffic-BLG/master/vpnserver64bit.tar.gz
-wget http://file.daixh.com/lnmp/lnmp1.3-full.tar.gz
+wget http://soft.vpser.net/lnmp/lnmp1.3-full.tar.gz
 tar zxf lnmp1.3-full.tar.gz
 cd lnmp1.3-full
 ./install.sh <<EOF
